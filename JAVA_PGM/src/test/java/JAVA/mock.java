@@ -99,7 +99,7 @@ public class mock
 					m.put(s.charAt(i), 1);
 				}
 			}
-	    	
+	    	//hvlirghlherk
 	    	
 	    	for(Entry<Character, Integer> map : m.entrySet())
 	    	{
